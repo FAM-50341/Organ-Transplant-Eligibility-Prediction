@@ -1,6 +1,8 @@
 🌟 Journey with Machine Learning! 🌟
+
 Platform: Google Colab
 Excited to share that I’ve developed a Machine Learning model to predict organ transplant eligibility! 🚀
+
 Datasets:
 There are used 2 random dataset created ny own. This project focuses on only the practice with ML.
 
@@ -20,6 +22,6 @@ Message: "Congratulations! You’re eligible for transplantation!"
 
 🚀 Why It Matters?
 This model makes organ allocation faster, fairer, and more efficient, ultimately saving lives.
-🔗 Explore: https://lnkd.in/dZkBtP7f 
+🔗 Explore: [https://lnkd.in/dZkBtP7f ](https://colab.research.google.com/drive/1bByoafSWeJdNpI_EB7p_qHSgwHSjjCRt?usp=sharing)
 [If you're interested, the link will be accessible upon request.]
 
