@@ -25,3 +25,5 @@ This model makes organ allocation faster, fairer, and more efficient, ultimately
 🔗 Explore: (https://colab.research.google.com/drive/1bByoafSWeJdNpI_EB7p_qHSgwHSjjCRt?usp=sharing)
 [If you're interested, the link will be accessible upon request.]
 
+See your transplanatation eligibility: https://deployment-of-organ-transplant-elgibility-prediction-n37xitqjh.streamlit.app/
+
